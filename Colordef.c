@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "Color_definition.h"
+#include "colordef.h"
 
 const char* MajorColorNames[] = {"White", "Red", "Black", "Yellow", "Violet"};
 int numberOfMajorColors =sizeof(MajorColorNames) / sizeof(MajorColorNames[0]);
